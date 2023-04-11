@@ -17,7 +17,7 @@ namespace ConsoleApp2
             float playerAttackRange = 9.1f;
             char heart = '♥';
             string playerName = "Grisha";
-            bool death = false;
+            bool isDeath = false;
             ulong lifeTime;
         }
     }
